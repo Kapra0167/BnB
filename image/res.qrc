@@ -1,0 +1,110 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="map">map.png</file>
+        <file alias="wall0">wall0.png</file>
+        <file alias="wall1">wall1.png</file>
+        <file alias="wall3">wall3.png</file>
+        <file alias="test">021.png</file>
+        <file>block_diamond.png</file>
+        <file alias="bm3">mercenary_13000009.png</file>
+        <file alias="scene">3153.png</file>
+        <file alias="bt1">908.png</file>
+        <file alias="bt2">4923.png</file>
+        <file alias="board">board.png</file>
+        <file alias="m2">mercenary_19000018.png</file>
+        <file alias="m1">mercenary_18000018.png</file>
+        <file alias="wall5">box07.png</file>
+        <file alias="wall4">goldbox.png</file>
+        <file alias="prop1">dodging.png</file>
+        <file alias="prop6">embrassed-energy.png</file>
+        <file alias="prop2">explosion-rays.png</file>
+        <file alias="prop3">fire-bomb.png</file>
+        <file alias="prop5">glass-heart.png</file>
+        <file alias="prop4">charged-arrow.png</file>
+        <file alias="over">gameover.png</file>
+        <file alias="prop7">ricochet.png</file>
+        <file alias="intro">3837.png</file>
+        <file alias="bm4">0.png</file>
+    </qresource>
+    <qresource prefix="/p1s">
+        <file alias="p1s0">player1/0.png</file>
+        <file alias="p1s1">player1/1.png</file>
+        <file alias="p1s2">player1/2.png</file>
+        <file alias="p1a0">player1/3.png</file>
+        <file alias="p1a1">player1/4.png</file>
+        <file alias="p1a2">player1/5.png</file>
+        <file alias="p1w0">player1/6.png</file>
+        <file alias="p1w1">player1/7.png</file>
+        <file alias="p1w2">player1/8.png</file>
+        <file alias="p1d0">player1/9.png</file>
+        <file alias="p1d1">player1/10.png</file>
+        <file alias="p1d2">player1/11.png</file>
+        <file alias="h1">player1/h1.png</file>
+    </qresource>
+    <qresource prefix="/p2s">
+        <file alias="p2s0">player2/0.png</file>
+        <file alias="p2s1">player2/1.png</file>
+        <file alias="p2s2">player2/2.png</file>
+        <file alias="p2a0">player2/3.png</file>
+        <file alias="p2a1">player2/4.png</file>
+        <file alias="p2a2">player2/5.png</file>
+        <file alias="p2w0">player2/6.png</file>
+        <file alias="p2w1">player2/7.png</file>
+        <file alias="p2w2">player2/8.png</file>
+        <file alias="p2d0">player2/9.png</file>
+        <file alias="p2d1">player2/10.png</file>
+        <file alias="p2d2">player2/11.png</file>
+        <file alias="h2">player2/h2.png</file>
+    </qresource>
+    <qresource prefix="/bm1">
+        <file alias="b1-1">boom1/0.png</file>
+        <file alias="b1-2">boom1/1.png</file>
+        <file alias="b1-3">boom1/2.png</file>
+        <file alias="b1-4">boom1/3.png</file>
+        <file alias="b1-5">boom1/4.png</file>
+        <file alias="b1-6">boom1/5.png</file>
+        <file alias="b1-7">boom1/6.png</file>
+        <file alias="b1-8">boom1/7.png</file>
+        <file alias="b1-9">boom1/8.png</file>
+        <file alias="b1-10">boom1/9.png</file>
+        <file alias="b1-11">boom1/10.png</file>
+        <file alias="b1-12">boom1/11.png</file>
+        <file alias="b1-13">boom1/12.png</file>
+        <file alias="b1-14">boom1/13.png</file>
+    </qresource>
+    <qresource prefix="/bming">
+        <file alias="bm5">booming/5.png</file>
+        <file alias="bm6">booming/6.png</file>
+        <file alias="bm7">booming/7.png</file>
+    </qresource>
+    <qresource prefix="/bt3">
+        <file>bot3/0.png</file>
+        <file>bot3/1.png</file>
+        <file>bot3/2.png</file>
+        <file>bot3/3.png</file>
+        <file>bot3/4.png</file>
+        <file>bot3/5.png</file>
+        <file>bot3/6.png</file>
+        <file>bot3/7.png</file>
+        <file>bot3/8.png</file>
+        <file>bot3/9.png</file>
+        <file>bot3/10.png</file>
+        <file>bot3/11.png</file>
+        <file>bot3/h3.png</file>
+    </qresource>
+    <qresource prefix="/bt4">
+        <file>bot4/0.png</file>
+        <file>bot4/1.png</file>
+        <file>bot4/2.png</file>
+        <file>bot4/3.png</file>
+        <file>bot4/4.png</file>
+        <file>bot4/5.png</file>
+        <file>bot4/6.png</file>
+        <file>bot4/7.png</file>
+        <file>bot4/8.png</file>
+        <file>bot4/9.png</file>
+        <file>bot4/10.png</file>
+        <file>bot4/11.png</file>
+        <file>bot4/h4.png</file>
+    </qresource>
+</RCC>
